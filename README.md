@@ -1,2 +1,2 @@
-### [Frontent Link](anjali-assignment-Ecommerce.netlify.app/)
+### [Frontent Link](anjali-assignment-ecommerce.netlify.app/)
 ### [Backend Link](https://ecommerce-back-gnov.onrender.com/)
